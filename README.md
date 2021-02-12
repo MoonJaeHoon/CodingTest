@@ -1,6 +1,6 @@
 # 코딩테스트
 > 코딩테스트를 풀고 정리하는 Repo, 문제출처를 명시해두었습니다.
-모두 정답풀이지만, 개인적으로 아쉬웠던 풀이는 체크해두고 다시 시도
+> 모두 정답풀이지만, 개인적으로 아쉬웠던 풀이는 재도전해볼수 있도록 체크해두었습니다.
 
 ---
 
@@ -60,6 +60,25 @@
 #### N개의 최소공배수
 - <a href="./Programmers/N개의 최소공배수">문제와 풀이 보러가기</a>
 - <a href="https://programmers.co.kr/learn/courses/30/lessons/12953" target="_blank">문제 출처</a>
+<p style='color:red'>다시 풀어봐야함</p>
+
+#### 소수 만들기
+- <a href="./Programmers/소수 만들기">문제와 풀이 보러가기</a>
+- <a href="https://programmers.co.kr/learn/courses/30/lessons/12977" target="_blank">문제 출처</a>
+
+#### 점프와 순간 이동
+- <a href="./Programmers/점프와 순간 이동">문제와 풀이 보러가기</a>
+- <a href="https://programmers.co.kr/learn/courses/30/lessons/12980" target="_blank">문제 출처</a>
+<p style='color:red'>다시 풀어봐야함</p>
+
+#### 영어 끝말잇기
+- <a href="./Programmers/영어 끝말잇기">문제와 풀이 보러가기</a>
+- <a href="https://programmers.co.kr/learn/courses/30/lessons/12981" target="_blank">문제 출처</a>
+<p style='color:red'>다시 풀어봐야함</p>
+
+#### 예상 대진표
+- <a href="./Programmers/예상 대진표">문제와 풀이 보러가기</a>
+- <a href="https://programmers.co.kr/learn/courses/30/lessons/12985" target="_blank">문제 출처</a>
 <p style='color:red'>다시 풀어봐야함</p>
 
 ---
